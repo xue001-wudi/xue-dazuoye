@@ -1,0 +1,35 @@
+.box1{
+    
+    height: 100vh;
+    top: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(45deg, rgb(23, 25, 97), rgb(37, 106, 235)) fixed;
+}
+.box2{
+    position:absolute;
+    width: 70rem;
+
+    background-size: cover;
+    background-image: url("src\assets\imgs\bg.jpg");
+
+    
+}
+.box2 img {
+    width: 70rem;
+}
+.login-content{
+    width: 400px;
+    height: 100vh;
+}
+
+form{
+    width: 35rem;
+}
+body
+{
+   
+    border: black 3px;
+}
